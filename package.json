@@ -1,0 +1,1 @@
+{"description":"本地加密密码保险箱","devDependencies":{"electron":"^31.0.0"},"license":"MIT","main":"main.js","name":"password-vault","scripts":{"start":"electron ."},"version":"1.0.0"}
